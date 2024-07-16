@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2; /* Cor de fundo harmonizada */
+    color: #333; /* Cor do texto */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #007bff; /* Cor de fundo para cabeçalho */
+    color: #fff; /* Cor do texto no cabeçalho */
+    padding: 10px;
+    text-align: center;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff; /* Cor de fundo do conteúdo principal */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.content img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto 20px; /* Centraliza a imagem e adiciona margem inferior */
+}
+
+.content p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #007bff; /* Cor de fundo para rodapé */
+    color: #fff; /* Cor do texto no rodapé */
+}
